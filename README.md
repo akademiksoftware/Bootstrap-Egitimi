@@ -1,2 +1,2 @@
 # Bootstrap-Egitimi
-Bootstrap
+Bootstrap 5 Eğitim Notları 
